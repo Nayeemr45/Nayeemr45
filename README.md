@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Web App Using ReactJs, NodeJs
-- 🌱 I’m currently learning Mobile App Using (Flutter, React Native)
-- 👯 I’m looking to collaborate on my ' --MERN-- ' Project
+- 🔭 I’m currently working on Web App Using NextJs and MERN(MongoDB, ExpressJs, ReactJs and NodeJs) Stack.
+- 🌱 I’m currently learning Mobile App Using (Flutter, React Native).
+- 👯 I’m looking to collaborate on my ' --MERN-- ' Projects.
 <!--
 - 🤔 I’m looking for help with ...
 -->
