@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Ask me about ReactJs, PHP, Laravel, NodeJs and Any Teach Realated Stuff
-- 📫 How to reach me: www.nayeem-ahmed.com
+- 📫 How to reach me : www.nayeem-ahmed.com
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=nayeemr45&&show_icons=true&bg_color=161B22&title_color=3de3ba&text_color=8ed1bf&icon_color=3de3ba&border_color=161B22">
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+- ``` Give a star ⭐ ```
 ```diff
-+ Please Give a star ⭐
 @@ Thank you 🌱@@
+```
