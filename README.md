@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.nayeem-ahmed.com
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=nayeemr45&&show_icons=true&bg_color=161B22&title_color=3de3ba&text_color=8ed1bf&icon_color=3de3ba&border_color=0D1117">
+<img src="https://github-readme-stats.vercel.app/api?username=nayeemr45&&show_icons=true&bg_color=161B22&title_color=3de3ba&text_color=8ed1bf&icon_color=3de3ba&border_color=161B22">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemr45&layout=compact&bg_color=0D1117&title_color=ccffff&text_color=8ed1bf&icon_color=3de3ba&border_color=0D1117">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemr45&layout=compact&bg_color=161B22&title_color=ccffff&text_color=8ed1bf&icon_color=3de3ba&border_color=161B22">
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
