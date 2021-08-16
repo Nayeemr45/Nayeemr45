@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 
-- ``` Give a star ⭐ ```
+
 ```diff
 @@ Thank you 🌱@@
 ```
