@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <!--
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Ask me about ReactJs, PHP, Laravel, NodeJs and Any Teach Realated Stuff
+- 💬 Ask me about ReactJs,  NodeJs, VueJs, PHP, Laravel and Any Teach Realated Stuff
 - 📫 How to reach me : www.nayeem-ahmed.com
 
 
