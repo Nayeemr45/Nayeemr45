@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on my ' --MERN-- ' Projects.
 <!--
 - 🤔 I’m looking for help with ...
+- 📫 How to reach me : www.nayeem-ahmed.com
 -->
 - 💬 Ask me about ReactJs,  NodeJs, VueJs, PHP, Laravel and Any Teach Realated Stuff
-- 📫 How to reach me : www.nayeem-ahmed.com
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=nayeemr45&&show_icons=true&bg_color=161B22&title_color=3de3ba&text_color=8ed1bf&icon_color=3de3ba&border_color=161B22">
