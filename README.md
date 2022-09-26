@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Web App Using MERN(MongoDB, ExpressJs, ReactJs and NodeJs) Stack.
+- 🔭 I’m currently working on Web App Using Angular, ReactJs, MongoDB, ExpressJs, and NodeJs.
 - 🌱 I’m currently learning VueJs
-- 👯 I’m looking to collaborate on my ' --MERN-- ' Projects.
+<!-- 👯 I’m looking to collaborate on my ' --MERN-- ' Projects. -->
 <!--
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me : www.nayeem-ahmed.com
