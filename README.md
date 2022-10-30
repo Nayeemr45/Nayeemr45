@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Web App Using Angular, ReactJs, MongoDB, ExpressJs, and NodeJs.
-- 🌱 I’m currently learning VueJs
+- 🌱 Worked on VueJs, React Js, Redux.
 <!-- 👯 I’m looking to collaborate on my ' --MERN-- ' Projects. -->
 <!--
 - 🤔 I’m looking for help with ...
