@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 Worked on VueJs, React Js, Redux.
 -->
 
-- 🔭 I’m currently working on Microservices, Kafka, Fluuentd, Docker, K8.
+- 🔭 I’m currently working on Microservices, Kafka, Fluentd, Docker, K8.
 - 🌱 Worked on Angular, ReactJs, MongoDB, ExpressJs, and NodeJs, VueJs, React Js, Redux.
 <!-- 👯 I’m looking to collaborate on my ' --MERN-- ' Projects. -->
 <!--
