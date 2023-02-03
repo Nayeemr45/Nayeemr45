@@ -4,10 +4,13 @@
 **Nayeemr45/Nayeemr45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on Web App Using Angular, ReactJs, MongoDB, ExpressJs, and NodeJs.
 - 🌱 Worked on VueJs, React Js, Redux.
+-->
+
+- 🔭 I’m currently working on Microservices, Kafka, Fluuentd, Docker, K8.
+- 🌱 Worked on Angular, ReactJs, MongoDB, ExpressJs, and NodeJs, VueJs, React Js, Redux.
 <!-- 👯 I’m looking to collaborate on my ' --MERN-- ' Projects. -->
 <!--
 - 🤔 I’m looking for help with ...
