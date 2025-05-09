@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Microservices, Kafka, Fluentd, Docker, K8.
-- 🌱 Worked on Angular, ReactJs, MongoDB, ExpressJs, and NodeJs, VueJs, React Js, Redux.
+- 🌱 Worked on Angular, NestJs, NextJs, PostgreSql, ReactJs, MongoDB, ExpressJs, and NodeJs, VueJs, Redis, Redux.
 <!-- 👯 I’m looking to collaborate on my ' --MERN-- ' Projects. -->
 <!--
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me : www.nayeem-ahmed.com
 -->
-- 💬 Ask me about ReactJs,  NodeJs, VueJs, PHP, Laravel and Any Teach Realated Stuff
+- 💬 Ask me about Angular, NestJs, NextJs, Kafka, Redis, NodeJs and Any Tech Realated Stuff
 
 
 
